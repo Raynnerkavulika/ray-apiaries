@@ -13,7 +13,9 @@ include "config.php";
 </head>
 <body>
     <section class="form-container">
-        
+        <form action="" method="post" enctype="multipart/form-data">
+            <input type="text" placeholder="enter your full names" class="box" name="name" required autocomplete="off">
+        </form>
     </section>
 </body>
 </html>
