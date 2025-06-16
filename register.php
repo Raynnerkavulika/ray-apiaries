@@ -1,1 +1,13 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>register page</title>
+</head>
+<body>
+    <section class="form-container">
+        
+    </section>
+</body>
+</html>
