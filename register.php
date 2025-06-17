@@ -18,6 +18,7 @@ include "config.php";
             <input type="email" placeholder="enter your email" class="box" name="email" required autocomplete="off">
             <input type="password" placeholder="enter your password" class="box" name="password" required autocomplete="off">
             <input type="password" placeholder="confirm your password" class="box" name="cpassword" required autocomplete="off">
+            <input type="file" name="image" class="box">
         </form>
     </section>
 </body>
