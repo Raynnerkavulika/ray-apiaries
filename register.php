@@ -15,6 +15,9 @@ include "config.php";
     <section class="form-container">
         <form action="" method="post" enctype="multipart/form-data">
             <input type="text" placeholder="enter your full names" class="box" name="name" required autocomplete="off">
+            <input type="email" placeholder="enter your email" class="box" name="email" required autocomplete="off">
+            <input type="password" placeholder="enter your password" class="box" name="password" required autocomplete="off">
+            <input type="password" placeholder="confirm your password" class="box" name="cpassword" required autocomplete="off">
         </form>
     </section>
 </body>
