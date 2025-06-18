@@ -19,7 +19,7 @@ include "config.php";
             <input type="password" placeholder="enter your password" class="box" name="password" required autocomplete="off">
             <input type="password" placeholder="confirm your password" class="box" name="cpassword" required autocomplete="off">
             <input type="file" name="image" class="box" accept="image/png,image/jpg,image/jpeg">
-            <input type="submit">
+            <input type="submit" name="submit" class="btn" value="register now">
         </form>
     </section>
 </body>
