@@ -14,3 +14,8 @@ html{
     background-color: orange;
     color: white;
 }
+
+::-webkit-scrollbar{
+    height: 0.5rem;
+    width: 1rem;
+}
